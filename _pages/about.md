@@ -66,5 +66,6 @@ Teaching
   * CSCI3100 Software Engineering (2022, 2023)
   * CSCI2720 Building Web Applications (2022)
 * Fudan University: Teaching Assistant
-  * COMP130048 Java Programming (2019, 2020, 2021)  
+  * COMP130048 Java Programming (2019, 2020, 2021)
 
+&nbsp;
