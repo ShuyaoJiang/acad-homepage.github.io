@@ -15,44 +15,57 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+About Me
+====
+I am a 2nd-year Ph.D. student at [ARISE Lab](http://ariselab.cse.cuhk.edu.hk/), [Department of Computer Science and Engineering](https://www.cse.cuhk.edu.hk/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/) (supervised by [Prof. Michael R. Lyu](http://www.cse.cuhk.edu.hk/lyu/)). I received my B.Sc. and M.Eng. degrees in Computer Science from [Fudan University](https://www.fudan.edu.cn/), in 2019 and 2022 respectively (supervised by [Prof. Yangfan Zhou](https://appsrv.cse.cuhk.edu.hk/~yfzhou/)). My research focuses on **Software Engineering**. Currently, I am interested in WebAssembly runtime systems.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+News
+====
+* [2023/07] Our paper "Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing" has been accepted by [ASE 2023](https://conf.researchr.org/home/ase-2023).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Publications
+====
+* **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing** [[paper]](https://arxiv.org/abs/2309.12167)  
+  **Shuyao Jiang**, Ruiying Zeng, Zihao Rao, Jiazhen Gu, Yangfan Zhou, and Michael R. Lyu. To appear in *Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2023](https://conf.researchr.org/home/ase-2023))*, September, 2023.
 
-# 📝 Publications 
+* **Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study** [[paper]](https://doi.org/10.1109/TSE.2022.3214859)  
+  **Shuyao Jiang**, Jiacheng Shen, Shengnan Wu, Yu Cai, Yue Yu, and Yangfan Zhou. In *IEEE Transactions on Software Engineering ([TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32))*, vol. 49, no. 4 (pp. 2239-2254), October, 2022.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+* **Boosting Neural Commit Message Generation with Code Semantic Analysis** [[paper]](https://doi.org/10.1109/ASE.2019.00162)  
+  **Shuyao Jiang**. In *Proceedings of the 34th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2019](https://2019.ase-conferences.org/))*, November, 2019.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Education
+======
+* Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2026 (expected)
+* M.Eng. in Computer Science, Fudan University, 2022
+* B.Sc. in Computer Science, Fudan University, 2019
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+Honors and Awards
+======
+* Outstanding Graduate Award of Fudan University (Postgraduate), 2022
+* Huawei Scholarship, 2020
+* Second place in the ACM Student Research Competition at ASE 2019, 2019
+* Outstanding Graduate Award of Fudan University (Undergraduate), 2019
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Work Experience
+======
+* Tencent Inc.: Research Intern
+  * 2021.01 - 2021.05
+* SAP: Development Intern
+  * 2018.07 - 2018.09
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+  
+Teaching
+======
+* The Chinese University of Hong Kong: Teaching Assistant
+  * CSCI3100 Software Engineering (2022, 2023)
+  * CSCI2720 Building Web Applications (2022)
+* Fudan University: Teaching Assistant
+  * COMP130048 Java Programming (2019, 2020, 2021) 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
