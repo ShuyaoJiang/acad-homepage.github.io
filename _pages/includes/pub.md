@@ -3,9 +3,8 @@
 * `ASE'23` **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**  
   **Shuyao Jiang**, Ruiying Zeng, Zihao Rao, Jiazhen Gu, Yangfan Zhou, and Michael R. Lyu.  
   To appear in *Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering ([ASE 2023](https://conf.researchr.org/home/ase-2023))*, September, 2023.  
-  [[Paper](https://shuyaojiang.github.io/publications/ase23/ASE23_WarpDiff.pdf)]
-  [[Slides](https://shuyaojiang.github.io/publications/ase23/ASE23_WarpDiff_Slides.pdf)]
   [[arXiv](https://arxiv.org/abs/2309.12167)]
+  [[Slides](https://shuyaojiang.github.io/publications/ase23/ASE23_WarpDiff_Slides.pdf)]
   [[BibTex](https://shuyaojiang.github.io/publications/ase23/ase23-bibtex.txt)]
 
 * `TSE'22` **Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study**  
