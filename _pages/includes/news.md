@@ -4,4 +4,4 @@
 
 * [2022/10] One paper accepted to [TSE](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=32).
 
-* [2022/01] I joined ARISE Lab at The Chinese University of Hong Kong as a Ph.D. student.
+* [2022/01] I joined ARISE Lab at CUHK as a Ph.D. student.
