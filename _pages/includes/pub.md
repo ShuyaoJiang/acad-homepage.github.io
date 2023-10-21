@@ -5,12 +5,14 @@
   In *Proceedings of the 38th IEEE/ACM International Conference on Automated Software Engineering (ASE)*, September, 2023.  
   [[Paper](https://arxiv.org/abs/2309.12167)]
   [[Slides](https://shuyaojiang.github.io/publications/ase23/ASE23_WarpDiff_Slides.pdf)]
+  [[Code](https://github.com/ShuyaoJiang/WarpDiff)]
   [[BibTex](https://shuyaojiang.github.io/publications/ase23/ase23-bibtex.txt)]
 
 * `TSE'22` **Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study**.  
   **Shuyao Jiang**, Jiacheng Shen, Shengnan Wu, Yu Cai, Yue Yu, and Yangfan Zhou.  
   In *IEEE Transactions on Software Engineering (TSE)*, vol. 49, no. 4 (pp. 2239-2254), October, 2022.  
   [[Paper](https://shuyaojiang.github.io/publications/tse22/TSE22_CCLink.pdf)]
+  [[Code](https://github.com/CCLink-demo)]
   [[DOI](https://doi.org/10.1109/TSE.2022.3214859)]
   [[BibTex](https://shuyaojiang.github.io/publications/tse22/tse22-bibtex.txt)]
 
