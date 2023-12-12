@@ -1,4 +1,4 @@
-# 📝 Publications
+# Publications
 
 * `ASE'23` **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**.  
   **Shuyao Jiang**, Ruiying Zeng, Zihao Rao, Jiazhen Gu, Yangfan Zhou, and Michael R. Lyu.  

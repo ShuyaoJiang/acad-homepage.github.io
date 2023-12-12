@@ -1,4 +1,4 @@
-# 🔥 News
+# News
 
 * [2023/12] I passed my Ph.D. candidacy examination. 🎉
 
