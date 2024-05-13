@@ -25,7 +25,7 @@
   [[BibTex](https://shuyaojiang.github.io/publications/tse23/tse23-bibtex.txt)]
 
 
-* `ASE'19` **Boosting Neural Commit Message Generation with Code Semantic Analysis**
+* `ASE'19` **Boosting Neural Commit Message Generation with Code Semantic Analysis**.
 
   **Shuyao Jiang**.
 
