@@ -9,7 +9,7 @@
 
 * Outstanding Graduate Award of Fudan University (Postgraduate), 2022
 * Huawei Scholarship, 2020
-* Second place in the [ACM Student Research Competition](https://src.acm.org/) at ASE 2019, 2019
+* Second place in the [ACM Student Research Competition](https://src.acm.org/) at [ASE 2019](https://2019.ase-conferences.org/), 2019
 * Outstanding Graduate Award of Fudan University (Undergraduate), 2019
 
 
