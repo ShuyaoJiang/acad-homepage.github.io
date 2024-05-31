@@ -1,6 +1,6 @@
 # Education
 
-* Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2026 (expected)
+* Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, 2026 (Expected)
 * M.Eng. in Computer Science, Fudan University, 2022
 * B.Sc. in Computer Science, Fudan University, 2019
 
@@ -15,7 +15,7 @@
 
 # Work Experience
 
-* [Tencent Inc.](https://www.tencent.com/en-us/): Research Intern, 2021.01 - 2021.05
+* [Tencent](https://www.tencent.com/en-us/) (WXG): Research Intern, 2021.01 - 2021.05
 * [SAP](https://www.sap.com/): Development Intern, 2018.07 - 2018.09
 
   
