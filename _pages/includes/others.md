@@ -15,8 +15,10 @@
 
 # Work Experience
 
-* [Tencent](https://www.tencent.com/en-us/) (WXG): Research Intern, 2021.01 - 2021.05
-* [SAP](https://www.sap.com/): Development Intern, 2018.07 - 2018.09
+* [Tencent](https://www.tencent.com/en-us/) (WXG): Research Intern
+  * 2021.01 - 2021.05, Guangzhou, China
+* [SAP](https://www.sap.com/): Software Development Intern
+  * 2018.07 - 2018.09, Shanghai, China
 
   
 # Teaching
