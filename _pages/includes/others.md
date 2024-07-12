@@ -15,16 +15,16 @@
 
 # Work Experience
 
-* [Tencent](https://www.tencent.com/) (WXG): Research Intern, 2021.01 - 2021.05 (Guangzhou, China)
-* [SAP](https://www.sap.com/): Software Development Intern, 2018.07 - 2018.09 (Shanghai, China)
+* Research Intern, [Tencent](https://www.tencent.com/) (Guangzhou, China), 2021.01 - 2021.05
+* Software Development Intern, [SAP](https://www.sap.com/) (Shanghai, China), 2018.07 - 2018.09
 
   
 # Teaching
 
-* The Chinese University of Hong Kong: Teaching Assistant
+* Teaching Assistant, The Chinese University of Hong Kong
   * [CSCI3100 Software Engineering](https://www.cse.cuhk.edu.hk/academics/ug-course-list/csci3100/) (2022, 2023)
   * [CSCI2720 Building Web Applications](https://www.cse.cuhk.edu.hk/academics/ug-course-list/csci2720/) (2022)
-* Fudan University: Teaching Assistant
+* Teaching Assistant, Fudan University
   * COMP130048 Java Programming (2019, 2020, 2021)
 
 &nbsp;
