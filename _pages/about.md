@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<span class='anchor' id='about-me'></span>
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
 {% else %}
