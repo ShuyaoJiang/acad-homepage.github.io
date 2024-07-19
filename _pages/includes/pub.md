@@ -1,6 +1,6 @@
 # 📝 Publications
 
-* `ASE'23` **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**.
+* `ASE'23` **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**. ([CORE A*](https://portal.core.edu.au/conf-ranks/279/))
 
   **Shuyao Jiang**, Ruiying Zeng, Zihao Rao, Jiazhen Gu, Yangfan Zhou, and Michael R. Lyu.
 
@@ -13,7 +13,7 @@
   [[BibTex](https://shuyaojiang.github.io/publications/ase23/ase23-bibtex.txt)]
 
 
-* `TSE'23` **Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study**.
+* `TSE'23` **Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study**. ([CORE A*](https://portal.core.edu.au/jnl-ranks/361/))
 
   **Shuyao Jiang**, Jiacheng Shen, Shengnan Wu, Yu Cai, Yue Yu, and Yangfan Zhou.
 
@@ -25,7 +25,7 @@
   [[BibTex](https://shuyaojiang.github.io/publications/tse23/tse23-bibtex.txt)]
 
 
-* `ASE'19` **Boosting Neural Commit Message Generation with Code Semantic Analysis**.
+* `ASE'19` **Boosting Neural Commit Message Generation with Code Semantic Analysis**. ([CORE A*](https://portal.core.edu.au/conf-ranks/279/))
 
   **Shuyao Jiang**.
 
