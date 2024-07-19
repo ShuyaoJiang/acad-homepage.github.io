@@ -14,6 +14,7 @@
 
 
 * `TSE'23` **Towards Usable Neural Comment Generation via Code-Comment Linkage Interpretation: Method and Empirical Study**.
+
   **Shuyao Jiang**, Jiacheng Shen, Shengnan Wu, Yu Cai, Yue Yu, and Yangfan Zhou.
 
   In *IEEE Transactions on Software Engineering (TSE)*, vol. 49, no. 4, pp. 2239-2254, April 2023.
