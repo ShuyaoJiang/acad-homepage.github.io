@@ -1,5 +1,12 @@
 # 📝 Publications
 
+* `SANER'25` **Distinguishability-guided Test Program Generation for WebAssembly Runtime Performance Testing**.
+
+  **Shuyao Jiang**, Ruiying Zeng, Yangfan Zhou, and Michael R. Lyu.
+
+  To appear in *Proceedings of the 32nd IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)*, March 2025.
+
+
 * `ASE'23` **Revealing Performance Issues in Server-side WebAssembly Runtimes via Differential Testing**.
 
   **Shuyao Jiang**, Ruiying Zeng, Zihao Rao, Jiazhen Gu, Yangfan Zhou, and Michael R. Lyu.
